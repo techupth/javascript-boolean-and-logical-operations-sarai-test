@@ -6,5 +6,6 @@ let hasCriminalBlacklist;
 let isThai;
 
 let isAllow;
+let test
 
 console.log(isAllow);
